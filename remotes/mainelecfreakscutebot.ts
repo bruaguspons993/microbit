@@ -1,3 +1,3 @@
 robot.elecfreaksCuteBot.start()
 robot.startCompactRadio()
-robot.startCalibrationButtons()
+//robot.startCalibrationButtons()// out of space
