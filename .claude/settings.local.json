@@ -16,7 +16,8 @@
       "Bash(mkdir -p /workspaces/microbit-robot/node_modules)",
       "Bash(cp /root/.nvm/versions/node/v24.14.1/lib/node_modules/pxt-microbit/pxtarget.json /workspaces/microbit-robot/node_modules/)",
       "Bash(./node_modules/.bin/makecode --help)",
-      "Bash(./node_modules/.bin/makecode install *)"
+      "Bash(./node_modules/.bin/makecode install *)",
+      "Bash(xxd /workspaces/microbit/mkhex.sh)"
     ]
   }
 }

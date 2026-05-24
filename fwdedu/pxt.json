@@ -13,7 +13,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "microbit-robot": "github:bruaguspons993/microbit#v2.5.47",
+        "microbit-robot": "github:bruaguspons993/microbit#master",
         "jacdac": "github:microsoft/pxt-jacdac#v1.9.23",
         "fwd-edu-common": "github:climate-action-kits/pxt-fwd-edu/fwd-common",
         "fwd-edu-breakout": "github:climate-action-kits/pxt-fwd-edu/fwd-breakout",
