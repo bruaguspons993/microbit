@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__plugin_engram_engram__mem_search",
+      "mcp__ide__getDiagnostics",
+      "Bash(grep -E '\\\\.\\(ts|js|json|env\\)$')",
+      "Bash(git add *)",
+      "Bash(npx tsc *)",
+      "Bash(./node_modules/.bin/tsc --noEmit)",
+      "Bash(npx pxt *)",
+      "Bash(npm install *)",
+      "Bash(pxt install *)",
+      "Bash(pxt --version)",
+      "Bash(PXT_HOME=/root/.nvm/versions/node/v24.14.1/lib/node_modules/pxt-microbit pxt install)",
+      "Bash(cp /root/.nvm/versions/node/v24.14.1/lib/node_modules/pxt-microbit/node_modules/pxt-core/pxtcli.json /workspaces/microbit-robot/node_modules/)",
+      "Bash(mkdir -p /workspaces/microbit-robot/node_modules)",
+      "Bash(cp /root/.nvm/versions/node/v24.14.1/lib/node_modules/pxt-microbit/pxtarget.json /workspaces/microbit-robot/node_modules/)",
+      "Bash(./node_modules/.bin/makecode --help)",
+      "Bash(./node_modules/.bin/makecode install *)"
+    ]
+  }
+}

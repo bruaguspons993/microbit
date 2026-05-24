@@ -1,1 +1,12 @@
-// tests go here; this will not be compiled when this package is used as an extension.
+robot.elecfreaksCuteBot.start()
+//robot.yahboomTinyBit.start(
+//robot.elecfreaksCuteBotPro.start()
+//robot.keyStudioMiniSmartRobot.start()
+//robot.setMotorDrift(6)
+//robot.dfRobotMaqueen.start()
+//robot.dfRobotMaqueenPlusV2.start()
+//robot.kittenbotMiniLFR.start()
+//robot.inksmithK8.start()
+//robot.startCompactRadio()
+//robot.startCalibrationButtons()
+robot.test.startTestMode()
