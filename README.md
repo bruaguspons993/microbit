@@ -41,13 +41,13 @@ The following features are found often those robots:
 ## Using this extension
 
 -   Open https://makecode.microbit.org or https://makecode.calliope.cc
--   Add this extension to your project by adding url [https://github.com/microsoft/microbit-robot](https://github.com/microsoft/microbit-robot)
+-   Add this extension to your project by adding url [https://github.com/bruaguspons993/microbit](https://github.com/bruaguspons993/microbit)
 
 ## Tutorials
 
--   [Getting started](https://makecode.microbit.org/#tutorial:github:microsoft/microbit-robot/tutorials/getting-started)
--   [Light and Sound](https://makecode.microbit.org/#tutorial:github:microsoft/microbit-robot/tutorials/light-and-sound)
--   [Line follower](https://makecode.microbit.org/#tutorial:github:microsoft/microbit-robot/tutorials/line-follower)
+-   [Getting started](https://makecode.microbit.org/#tutorial:github:bruaguspons993/microbit/tutorials/getting-started)
+-   [Light and Sound](https://makecode.microbit.org/#tutorial:github:bruaguspons993/microbit/tutorials/light-and-sound)
+-   [Line follower](https://makecode.microbit.org/#tutorial:github:bruaguspons993/microbit/tutorials/line-follower)
 
 ## Simulator
 
@@ -338,7 +338,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ### How to prepare a pull request <a id="new-robot"></a>
 
-To add a new robot to the list, prepare a pull request in [microsoft/microbit-robot](https://github.com/microsoft/microbit-robot) with:
+To add a new robot to the list, prepare a pull request in [bruaguspons993/microbit](https://github.com/bruaguspons993/microbit) with:
 
 -   a new class extending `Robot` and configuring the hardware (see other robots)
 -   a global field instance instantiating the robot (see other robots)
